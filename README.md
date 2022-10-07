@@ -1,2 +1,4 @@
-# sample-projects
-Sample projects showing usage of Midpoint. For more information see docs.midpointapi.com 
+# Midpoint Sample Projects
+This project contains sample contracts and midpoints. For information on how to run see docs.midpointapi.com
+
+To contribute contact us on Discord: https://discord.gg/rEkrNw6aSA
