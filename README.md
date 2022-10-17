@@ -1,4 +1,12 @@
 # Midpoint Sample Projects
-This project contains sample contracts and midpoints. For information on how to run see https://docs.midpointapi.com
+This project contains sample contracts and midpoints. For information on how to run these midpoints see [the docs](https://docs.midpointapi.com). To contribute contact us on [Discord](discord.gg/rEkrNw6aSA).
 
-To contribute contact us on Discord: https://discord.gg/rEkrNw6aSA
+--- 
+
+## Google Maps (MID: 276)
+[Documentation](https://docs.midpointapi.com/midpoint-documentation/get-started/real-world-requests-google-maps-11-min).
+Gets live driving times between multiple cities using Google Maps Distance Matrix endpoint.
+
+### Optimism Goerli Deployed Contracts
+* GoogleMapsRequest.sol: 0x0D70d245CFe10F88A24001a9C225b96Eb6B5eE5d
+* GoogleMapsResponse.sol: 0x241dA836990c6EF8fad6e4DD6a1262FB6201B3b7
