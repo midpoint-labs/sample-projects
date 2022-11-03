@@ -13,7 +13,7 @@ contract GoogleMapsRequest {
     address constant startpointAddress = 0xa89c2f3A20cED98cd39AFd0Ab5B207C46Fb2Cdf3;
     
     // Midpoint ID
-    uint64 constant midpointID = 276;
+    uint64 constant midpointID = 335;
 
     constructor () {
       
